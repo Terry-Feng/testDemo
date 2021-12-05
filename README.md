@@ -38,4 +38,4 @@ https://serenity-bdd.github.io/theserenitybook/latest/index.html
 ```
 target/site/serenity/index.html
 ```
-with browser to check the test details.
+in browser to check the test details.
